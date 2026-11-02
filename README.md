@@ -7,3 +7,5 @@ running singularity_warn.exe will give a warning before unzipping.
 running singularity_nowarn.exe will NOT warn the user.
 
 the owner is not responsible to any damages this program causes to a machine.
+
+this is a zip bomb of 32 YB that works on win11.
